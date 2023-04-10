@@ -17,3 +17,5 @@ In this NoSQL challenge, I learned basic concepts of NoSQL databases and how the
 # How These Tools Can be Beneficial:
 
 These tools can be beneficial in many ways. NoSQL databases are especially useful when dealing with large amounts of unstructured data, such as social media posts or IoT data. MongoDB provides scalability and flexibility to the database schema as it allows adding new fields dynamically without affecting the existing data. Node.js and Express.js provide a powerful and scalable way to build web applications and APIs. Finally, Mongoose provides an easy-to-use interface for interacting with MongoDB collections and simplifies the process of defining and enforcing schemas on collections.
+
+![Food-Safety](https://user-images.githubusercontent.com/52866379/230804218-7b207988-39da-4931-9349-e81738c18d31.png)
