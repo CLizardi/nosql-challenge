@@ -1,6 +1,6 @@
 # Introduction:
 
-In this project, i used MongoDB as the primary NoSQL database and worked on a dataset that contains information about products, sales, and customers.
+In this project, i used MongoDB as the primary NoSQL database and worked on a dataset that evaluates various establishments across the United Kingdom, and gives them a food hygiene rating.
 
 # Tools Used:
 
