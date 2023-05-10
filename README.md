@@ -1,4 +1,4 @@
-# Exploring UK Food Standards Agency's Hygiene Ratings with NoSQL1
+# Exploring UK Food Standards Agency's Hygiene Ratings with NoSQL
 ![Food-Safety](https://user-images.githubusercontent.com/52866379/230804218-7b207988-39da-4931-9349-e81738c18d31.png)
 
 # Introduction:
